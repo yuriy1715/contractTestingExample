@@ -1,0 +1,187 @@
+I, [2019-05-23T10:24:22.099359 #9592]  INFO -- : Registered expected interaction GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:22.099359 #9592] DEBUG -- : {
+  "description": "return id bpmn diagram",
+  "providerState": "it has a correct bpmn-diagram id",
+  "request": {
+    "method": "GET",
+    "path": "/589fc7a3-902d-5142-d497-b594d893e1b4"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+    },
+    "body": {
+      "caption": "New process (1)",
+      "elements": {
+      },
+      "connections": {
+      },
+      "labels": {
+      },
+      "documentation": "",
+      "securityTags": [
+        "8f34a13c-afeb-4c07-801d-abe49725fd95",
+        "1e3ef793-5076-43ac-a376-ce7184a15334"
+      ],
+      "id": "589fc7a3-902d-5142-d497-b594d893e1b4"
+    }
+  }
+}
+I, [2019-05-23T10:24:23.951576 #9592]  INFO -- : Received request GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:23.952123 #9592] DEBUG -- : {
+  "path": "/589fc7a3-902d-5142-d497-b594d893e1b4",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2019-05-23T10:24:23.952311 #9592]  INFO -- : Found matching response for GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:23.952311 #9592] DEBUG -- : {
+  "status": 200,
+  "headers": {
+  },
+  "body": {
+    "caption": "New process (1)",
+    "elements": {
+    },
+    "connections": {
+    },
+    "labels": {
+    },
+    "documentation": "",
+    "securityTags": [
+      "8f34a13c-afeb-4c07-801d-abe49725fd95",
+      "1e3ef793-5076-43ac-a376-ce7184a15334"
+    ],
+    "id": "589fc7a3-902d-5142-d497-b594d893e1b4"
+  }
+}
+I, [2019-05-23T10:24:24.092981 #9592]  INFO -- : Received request GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.092981 #9592] DEBUG -- : {
+  "path": "/589fc7a3-902d-5142-d497-b594d893e1b4",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2019-05-23T10:24:24.092981 #9592]  INFO -- : Found matching response for GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.092981 #9592] DEBUG -- : {
+  "status": 200,
+  "headers": {
+  },
+  "body": {
+    "caption": "New process (1)",
+    "elements": {
+    },
+    "connections": {
+    },
+    "labels": {
+    },
+    "documentation": "",
+    "securityTags": [
+      "8f34a13c-afeb-4c07-801d-abe49725fd95",
+      "1e3ef793-5076-43ac-a376-ce7184a15334"
+    ],
+    "id": "589fc7a3-902d-5142-d497-b594d893e1b4"
+  }
+}
+I, [2019-05-23T10:24:24.297229 #9592]  INFO -- : Received request GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.298269 #9592] DEBUG -- : {
+  "path": "/589fc7a3-902d-5142-d497-b594d893e1b4",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2019-05-23T10:24:24.298269 #9592]  INFO -- : Found matching response for GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.298269 #9592] DEBUG -- : {
+  "status": 200,
+  "headers": {
+  },
+  "body": {
+    "caption": "New process (1)",
+    "elements": {
+    },
+    "connections": {
+    },
+    "labels": {
+    },
+    "documentation": "",
+    "securityTags": [
+      "8f34a13c-afeb-4c07-801d-abe49725fd95",
+      "1e3ef793-5076-43ac-a376-ce7184a15334"
+    ],
+    "id": "589fc7a3-902d-5142-d497-b594d893e1b4"
+  }
+}
+I, [2019-05-23T10:24:24.355269 #9592]  INFO -- : Received request GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.355269 #9592] DEBUG -- : {
+  "path": "/589fc7a3-902d-5142-d497-b594d893e1b4",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2019-05-23T10:24:24.355269 #9592]  INFO -- : Found matching response for GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.356241 #9592] DEBUG -- : {
+  "status": 200,
+  "headers": {
+  },
+  "body": {
+    "caption": "New process (1)",
+    "elements": {
+    },
+    "connections": {
+    },
+    "labels": {
+    },
+    "documentation": "",
+    "securityTags": [
+      "8f34a13c-afeb-4c07-801d-abe49725fd95",
+      "1e3ef793-5076-43ac-a376-ce7184a15334"
+    ],
+    "id": "589fc7a3-902d-5142-d497-b594d893e1b4"
+  }
+}
+I, [2019-05-23T10:24:24.411985 #9592]  INFO -- : Received request GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.411985 #9592] DEBUG -- : {
+  "path": "/589fc7a3-902d-5142-d497-b594d893e1b4",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2019-05-23T10:24:24.411985 #9592]  INFO -- : Found matching response for GET /589fc7a3-902d-5142-d497-b594d893e1b4
+D, [2019-05-23T10:24:24.412984 #9592] DEBUG -- : {
+  "status": 200,
+  "headers": {
+  },
+  "body": {
+    "caption": "New process (1)",
+    "elements": {
+    },
+    "connections": {
+    },
+    "labels": {
+    },
+    "documentation": "",
+    "securityTags": [
+      "8f34a13c-afeb-4c07-801d-abe49725fd95",
+      "1e3ef793-5076-43ac-a376-ce7184a15334"
+    ],
+    "id": "589fc7a3-902d-5142-d497-b594d893e1b4"
+  }
+}
+I, [2019-05-23T10:24:24.458010 #9592]  INFO -- : Verifying - interactions matched
+I, [2019-05-23T10:24:24.468984 #9592]  INFO -- : Cleared interactions
+I, [2019-05-23T10:24:24.480985 #9592]  INFO -- : Writing pact for Bpmn-diagramService to C:/projects/contractTesting/pacts/reportservice-bpmn-diagramservice.json
